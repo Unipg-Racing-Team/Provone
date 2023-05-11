@@ -1,3 +1,6 @@
 [submodule "prova2"]
 	path = prova2
 	url = https://github.com/Unipg-Racing-Team/prova2
+[submodule "prova3"]
+	path = prova3
+	url = https://github.com/Unipg-Racing-Team/prova3
